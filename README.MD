@@ -54,7 +54,7 @@ I'm actively looking for a **year-long placement (Aug 2026 – Aug 2027)** in ba
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](your-linkedin-url)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/edisonford06/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Ace-7854)  
 *(PeoplePerHour link will be added later!)*
 
