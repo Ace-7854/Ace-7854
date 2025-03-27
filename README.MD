@@ -22,6 +22,10 @@ Passionate about backend development, automation, and databases. I enjoy working
 - AI-driven mystery-solving game.
 - Incorporates logical deductions and narrative-based decision-making.
 
+#### 🛜 [Web Scraper Coin Market](https://github.com/Ace-7854/CoinMarketCap-WebScraper)
+- Web scraping with custom html parsing.
+- Sanitization of data from html to csv data.
+
 ---
 
 ### 📚 Education & Achievements
