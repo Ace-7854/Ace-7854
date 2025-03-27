@@ -35,7 +35,6 @@ Passionate about backend development, automation, and databases. I enjoy working
 - Member of **BU Computing & Cyber Security Society**.
 - **Hackathon Achievement:** Won the "Most Technical" award.
 - **Leaderboard:** Placed 3rd in an open leaderboard on advent of code for BU Computing Society.
-![Screenshot](Screenshot-2025-03-14-104715.png)
 - Certifications: Basic Python & Intermediate Python (SoloLearn), A-Level in Computer Science.
 
 ---
