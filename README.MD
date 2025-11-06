@@ -7,7 +7,7 @@ Passionate about backend development, automation, and databases. I enjoy working
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python (Strong), SQL (Proficient), C# (Decent)
+- **Languages:** Python (Strong), SQL (Proficient), React.JS+Vite (Strong), Express.JS (Strong), Node.JS (Strong), C# (Decent)
 - **Frameworks & Tools:** .NET, Oracle, Git
 - **Interests:** Backend development, database management, automation
 
