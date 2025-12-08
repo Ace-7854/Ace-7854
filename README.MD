@@ -50,10 +50,9 @@ I'm actively looking for a **year-long placement (Aug 2026 – Aug 2027)** in ba
 - **Personal Projects:** Open to ideas but struggle with GUI development.
 
 ---
-
 ### 📊 GitHub Stats & Extras
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ace-7854&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-7854&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ace-7854&show_icons=true&theme=dark&hide_border=true&cache_seconds=3600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-7854&layout=compact&theme=dark&hide_border=true&cache_seconds=3600)
 
 ---
 
