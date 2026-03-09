@@ -56,11 +56,13 @@ I'm actively looking for a **year-long placement (June-Aug 2026 – June-Aug 202
 - **Podcasts:** I also enjoy listening to podcasts like Darknet Diaries, which is all about how people can take the internet and abuse it for information gathering, monetary gain and just out of enjoyment. As well as programming podcast which talks about how the industry today changes regularly, what new tech tools are vital in industry, how i can help get myself into industry and so on. 
 
 ---
+
 ### 📊 GitHub Stats & Extras
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ace-7854&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ace-7854&layout=compact&theme=tokyonight"/>
 </p>
+
 ---
 
 ### 📫 Connect with Me
