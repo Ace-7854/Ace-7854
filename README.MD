@@ -57,9 +57,8 @@ I'm actively looking for a **year-long placement (June-Aug 2026 – June-Aug 202
 
 ---
 ### 📊 GitHub Stats & Extras
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ace-7854&show_icons=true&theme=dark&hide_border=true&cache_seconds=3600)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-7854&layout=compact&theme=dark&hide_border=true&cache_seconds=3600)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ace-7854&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ace-7854&layout=compact&theme=dark&hide_border=true)
 ---
 
 ### 📫 Connect with Me
