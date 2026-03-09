@@ -45,14 +45,15 @@ Passionate about backend development, automation, and databases. I enjoy working
 ---
 
 ### 🔍 Placement Search
-I'm actively looking for a **year-long placement (Aug 2026 – Aug 2027)** in backend development, automation, or database management. If you're hiring or have opportunities, feel free to connect!
+I'm actively looking for a **year-long placement (June-Aug 2026 – June-Aug 2027)** in backend development, automation, or database management. If you're hiring or have opportunities, feel free to connect!
 
 ---
 
 ### 🎵 A Bit About Me
-- **Gaming:** My top 3 games of all time: GTA V, Valorant, Call of Duty: Black Ops 2.
-- **Music:** I can't go a day without listening to music—it helps me focus while coding.
-- **Personal Projects:** Open to ideas but struggle with GUI development.
+- **Gaming:** I play Valorant and the Sledding *Demo*. Valorant helps me to remain focused in high pressure situations, have an active communication, come up with multiple plans in a short span of time. While Sledding game is my 'turn-off' brain game, by this i mean more of a rest and recovery game, and spend some quality time with friends that I am unable to see in real life.
+- **Karting:** I go racing once a week, participate in races to work on my racing line, which is currently at the Bournemouth Teamsport Track.
+- **Music:** I listen to music a lot, spotify wrapped record for me was 146,000 Minutes of listening across one year, which is worked out to be 101 days, 9 hours, and 20 minutes.
+- **Podcasts:** I also enjoy listening to podcasts like Darknet Diaries, which is all about how people can take the internet and abuse it for information gathering, monetary gain and just out of enjoyment. As well as programming podcast which talks about how the industry today changes regularly, what new tech tools are vital in industry, how i can help get myself into industry and so on. 
 
 ---
 ### 📊 GitHub Stats & Extras
@@ -64,6 +65,7 @@ I'm actively looking for a **year-long placement (Aug 2026 – Aug 2027)** in ba
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/edisonford06/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Ace-7854)
+PLEASE DONT EMAIL ME ON owner@aceinc SERVICES ARE DOWN, please use edisonford2006@gmail.com instead 🤪
 
 ---
 
