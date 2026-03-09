@@ -64,6 +64,7 @@ I'm actively looking for a **year-long placement (June-Aug 2026 – June-Aug 202
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/edisonford06/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Ace-7854)
+
 PLEASE DONT EMAIL ME ON owner@aceinc SERVICES ARE DOWN, please use edisonford2006@gmail.com instead 🤪
 
 ---
