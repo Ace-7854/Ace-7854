@@ -1,15 +1,15 @@
 # Hi there, I'm Ace 👋
 
-## Aspiring Software Engineer | Back-End Developer | Python & SQL Enthusiast
+## Aspiring Software Engineer | Developer | Logic & SQL Enthusiast
 
-Passionate about backend development, automation, and databases. I enjoy working with Python, SQL, and C#, focusing on building efficient and scalable systems. Always looking to learn and improve my skills! While I go by 'Ace' online, my real name is Edison, but you can call me Edi!
+Passionate about backend development, automation, and databases. I enjoy working with  React, Express, Python, SQL, and C#, focusing on building efficient and scalable systems. Always looking to learn and improve my skills! While I go by 'Ace' online, my real name is Edison, but you can call me Edi!
 
 ---
 
 ### 🛠️ Tech Stack
 - **Languages:** Python (Strong), SQL (Proficient), React.JS+Vite (Strong), Express.JS (Strong), Node.JS (Strong), C# (Decent)
-- **Frameworks & Tools:** .NET, Oracle, Git
-- **Interests:** Backend development, database management, automation
+- **Frameworks & Tools:** .NET, Oracle, Git, Docker
+- **Interests:** Backend development, database management, automation, real-world use cases
 
 ---
 
@@ -25,6 +25,11 @@ Passionate about backend development, automation, and databases. I enjoy working
 #### 🛜 [Web Scraper Coin Market](https://github.com/Ace-7854/CoinMarketCap-WebScraper)
 - Web scraping with custom html parsing.
 - Sanitization of data from html to csv data.
+
+### ✒ [Shakespearean Tutor](https://github.com/Ace-7854/historics)
+- Vite x React UI 
+- Express REST API 
+- Use of custom logic to our own responses and the use of Gemini
 
 ---
 
@@ -58,8 +63,7 @@ I'm actively looking for a **year-long placement (Aug 2026 – Aug 2027)** in ba
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/edisonford06/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Ace-7854)  
-*(PeoplePerHour link will be added later!)*
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Ace-7854)
 
 ---
 
